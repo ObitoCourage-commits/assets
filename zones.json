@@ -6706,13 +6706,5 @@
     "special": [
       "port"
     ]
-  },
-  {
-    "id": 755,
-    "name": "Duck Math",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png",
-    "url": "https://duckmath.org/",
-    "author": "Duck Math",
-    "authorLink": "https://duckmath.org"
   }
 ]
