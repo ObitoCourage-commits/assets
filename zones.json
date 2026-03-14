@@ -6713,7 +6713,8 @@
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png",
     "url": "{HTML_URL}/755.html",
     "author": "Dan Parsons",
-    "authorLink": "https://basicallydan.github.io/skifree.js/"
+    "authorLink": "https://basicallydan.github.io/skifree.js/",
+     "special": ["non-gnmath"]
   },
   {
 "id": 756,
