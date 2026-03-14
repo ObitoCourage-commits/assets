@@ -6721,6 +6721,7 @@
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/756.png",
     "url": "{HTML_URL}/756.html",
     "author": "Hextris",
-    "authorLink": "https://hextris.io"
+    "authorLink": "https://hextris.io",
+      "special": ["non-gnmath"]
   }
 ]
