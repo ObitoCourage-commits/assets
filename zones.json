@@ -6710,7 +6710,7 @@
   {
     "id": 755,
     "name": "SkiFree",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png?t=1",
     "url": "{HTML_URL}/755.html",
     "author": "Dan Parsons",
     "authorLink": "https://basicallydan.github.io/skifree.js/",
