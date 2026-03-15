@@ -6733,5 +6733,14 @@
   "author": "jseidelin",
   "authorLink": "https://github.com/jseidelin/wolf3d",
   "special": ["non-gnmath", "port"]
-}
+},
+  {
+    "id": 758,
+    "name": "Crash Bandicoot 2: Cortex Strikes Back",
+    "cover": "https://github.com/ObitoCourage-commits/assets/blob/main/758.png",
+    "url": "{HTML_URL}/758.html",
+    "author": "Naughty Dog",
+    "author link": "https://www.naughtydog.com",
+    "special": ["psx", "non-gnmath", "port"]
+  }
 ]
