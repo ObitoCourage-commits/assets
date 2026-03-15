@@ -6725,4 +6725,13 @@
     "authorLink": "https://hextris.io",
       "special": ["non-gnmath", "port"]
   }
+  {
+  "id": 757,
+  "name": "Wolfenstein 3D",
+  "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/757.png",
+  "url": "{HTML_URL}/757.html",
+  "author": "jseidelin",
+  "authorLink": "https://github.com/jseidelin/wolf3d",
+  "special": ["non-gnmath", "port"]
+}
 ]
