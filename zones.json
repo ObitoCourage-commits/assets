@@ -6741,6 +6741,15 @@
     "url": "{HTML_URL}/758.html",
     "author": "Naughty Dog",
     "author link": "https://www.naughtydog.com",
-    "special": ["psx", "non-gnmath", "port"]
+    "special": ["psx", "non-gnmath", "port", "emulator"]
+  },
+  {
+    "id": 759,
+    "name": "Microsoft Edge Surf",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/759.png"
+    "url": "{HTML_URL}/759.html",
+    "author": "yell0wsuit",
+    "author link" "https://github.com/yell0wsuit",
+    "special" ["non-gnmath"]
   }
 ]
