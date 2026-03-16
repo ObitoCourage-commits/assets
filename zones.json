@@ -6750,6 +6750,6 @@
     "url": "{HTML_URL}/759.html",
     "author": "yell0wsuit",
     "author link": "https://github.com/yell0wsuit",
-    "special" ["non-gnmath"]
+    "special": ["non-gnmath"]
   }
 ]
