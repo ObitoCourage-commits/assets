@@ -6751,5 +6751,14 @@
     "author": "yell0wsuit",
     "author link": "https://github.com/yell0wsuit",
     "special": ["non-gnmath"]
+},
+  {
+    "id": 760,
+    "name": "Doodle Champion Island",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/760.png",
+    "url": "https://blog.pother.ca/Google-Doodle-Champion-Island/",
+    "author": "Google",
+    "authorLink": "https://github.com/potherca-blog/Google-Doodle-Champion-Island",
+    "special": ["non-gnmath", "external-links", "Google-doodles"]
 }
 ]
