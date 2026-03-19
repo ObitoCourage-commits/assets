@@ -6741,7 +6741,7 @@
     "url": "{HTML_URL}/758.html",
     "author": "Naughty Dog",
     "author link": "https://www.naughtydog.com",
-    "special": ["psx", "non-gnmath", "port", "emulator"]
+    "special": ["psx", "non-gnmath", "port", "emulator", "Crash Bandicoot"]
   },
  {
     "id": 759,
@@ -6768,6 +6768,15 @@
     "url": "{HTML_URL}/761.html",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
-    "special": ["non-gnmath", "emulator", "port", "psx"]
+    "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
+},
+  {
+    "id": 762,
+    "name": "Crash Bandicoot",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/762.png",
+    "url": "{HTML_URL}/762.html",
+    "author": "Naughty Dog",
+    "authorLink": "",
+    "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
 }
 ]
