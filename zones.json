@@ -6760,5 +6760,14 @@
     "author": "Google",
     "authorLink": "https://github.com/potherca-blog/Google-Doodle-Champion-Island",
     "special": ["non-gnmath", "external-links", "Google-doodles"]
+},
+  {
+    "id": 761,
+    "name": "Crash Bandicoot: Warped",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/761.png",
+    "url": "{HTML_URL}/761.html",
+    "author": "Naughty Dog",
+    "authorLink": "https://www.naughtydog.com",
+    "special": ["non-gnmath", "emulator", "port", "psx"]
 }
 ]
