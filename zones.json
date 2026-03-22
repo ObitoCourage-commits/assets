@@ -6778,5 +6778,14 @@
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
     "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
+},
+  {
+    "id": 763,
+    "name": "SpongeBob: Battle for Bikini Bottom",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/763.png",
+    "url": "{HTML_URL}/763.html",
+    "author": "Heavy Iron Studios",
+    "authorLink": "https://heavyiron.games/",
+    "special": ["non-gnmath", "emulator"]
 }
 ]
