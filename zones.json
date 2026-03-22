@@ -6930,5 +6930,14 @@
     "author": "Heavy Iron Studios",
     "authorLink": "https://heavyiron.games/",
     "special": ["non-gnmath", "emulator"]
-}
-]
+},
+  {
+  "id": 9008,
+    "name": "Marvel vs Capcom - Clash of Superheros",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9008.png",
+    "url": "{HTML_URL}/9008.html",
+    "author": "Capcom",
+    "authorLink": "https://capcom.com/",
+    "special": ["non-gnmath", "emulator", "psx"]
+  }
+
