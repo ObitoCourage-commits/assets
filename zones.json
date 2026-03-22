@@ -6707,6 +6707,159 @@
       "port"
     ]
   },
+   },
+  {
+    "id": 755,
+    "name": "Brawl Simulator 3D",
+    "cover": "{COVER_URL}/755.png",
+    "url": "{HTML_URL}/755.html",
+    "author": "Fire Games, Supercell",
+    "authorLink": "https://yandex.com/games/developer/77286"
+  },
+  {
+    "id": 756,
+    "name": "Witch's Heart",
+    "cover": "{COVER_URL}/756.png",
+    "url": "{HTML_URL}/756-f.html",
+    "author": "IZ (BLUE STAR Entertainment)",
+    "authorLink": "https://bluestariz.web.fc2.com/zentai.html",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Ultrapool",
+    "cover": "{COVER_URL}/757.png",
+    "url": "{HTML_URL}/757.html",
+    "author": "Icedrop Games, mysmic",
+    "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 758,
+    "name": "CaseOh's Basics in Eating and Fast Food",
+    "cover": "{COVER_URL}/758.png",
+    "url": "{HTML_URL}/758.html",
+    "author": "Ronezkj15",
+    "authorLink": "https://gamebanana.com/mods/507799",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Dice a Million",
+    "cover": "{COVER_URL}/759.png",
+    "url": "{HTML_URL}/759.html",
+    "author": "countlessnights, 2 Left Thumbs, NotRexed",
+    "authorLink": "https://store.steampowered.com/app/3430340/Dice_A_Million/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 760,
+    "name": "Overburden",
+    "cover": "{COVER_URL}/760.png",
+    "url": "{HTML_URL}/760.html",
+    "author": "notsospecialgames, shxyder",
+    "authorLink": "https://notsospecialgames.itch.io/overburden",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "FISH",
+    "cover": "{COVER_URL}/761.png",
+    "url": "{HTML_URL}/761.html",
+    "author": "dmcaguy",
+    "authorLink": "https://dmcaguy.itch.io/fish",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Cheese Rolling",
+    "cover": "{COVER_URL}/762.png",
+    "url": "{HTML_URL}/762.html",
+    "author": "The Interviewed, wasm.com",
+    "authorLink": "https://store.steampowered.com/app/3809440/Cheese_Rolling/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 763,
+    "name": "Flying Gorilla 3D",
+    "cover": "{COVER_URL}/763.png",
+    "url": "{HTML_URL}/763.html",
+    "author": "Pinbit LLC",
+    "authorLink": "https://apps.apple.com/us/app/flying-gorilla/id1365028549",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Five Night's at Shrek's Hotel",
+    "cover": "{COVER_URL}/764.png",
+    "url": "{HTML_URL}/764.html",
+    "author": "rend-pii",
+    "authorLink": "https://rend-pii.itch.io/five-nights-at-shreks-hotel-2"
+  },
+  {
+    "id": 765,
+    "name": "Scary Shawarma Kiosk: the ANOMALY",
+    "cover": "{COVER_URL}/765.png",
+    "url": "{HTML_URL}/765.html",
+    "author": "kharbor_ykt",
+    "authorLink": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY"
+  },
+  {
+    "id": 766,
+    "name": "Suika Game",
+    "cover": "{COVER_URL}/766.png",
+    "url": "{HTML_URL}/766.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 767,
+    "name": "Stick Slasher",
+    "cover": "{COVER_URL}/767.png",
+    "url": "{HTML_URL}/767.html",
+    "author": "Beruke Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.BerukeGames.StickSlasher"
+  },
+  {
+    "id": 768,
+    "name": "Stickman Kombat 2D",
+    "cover": "{COVER_URL}/768.png",
+    "url": "{HTML_URL}/768.html",
+    "author": "GamePush",
+    "authorLink": "https://www.crazygames.com/game/stickman-kombat-2d"
+  },
+  {
+    "id": 769,
+    "name": "Stickman Duel",
+    "cover": "{COVER_URL}/769.png",
+    "url": "{HTML_URL}/769.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 770,
+    "name": "Sonic Robo Blast 2",
+    "cover": "{COVER_URL}/770.png",
+    "url": "{HTML_URL}/770.html",
+    "author": "Sonic Team Junior, crunch, vinmannie",
+    "authorLink": "https://www.srb2.org/"
+  },
   {
     "id": 9000,
     "name": "SkiFree",
