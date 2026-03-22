@@ -6708,7 +6708,7 @@
     ]
   },
   {
-    "id": 755,
+    "id": 9000,
     "name": "SkiFree",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png?t=1",
     "url": "{HTML_URL}/755.html",
@@ -6717,7 +6717,7 @@
      "special": ["non-gnmath"]
   },
   {
-"id": 756,
+"id": 9001,
     "name": "Hextris",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/756.png",
     "url": "{HTML_URL}/756.html",
@@ -6726,7 +6726,7 @@
       "special": ["non-gnmath", "port"]
   },
   {
-  "id": 757,
+  "id": 9002,
   "name": "Wolfenstein 3D",
   "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/757.png",
   "url": "{HTML_URL}/757.html",
@@ -6735,7 +6735,7 @@
   "special": ["non-gnmath", "port"]
 },
   {
-    "id": 758,
+    "id": 9003,
     "name": "Crash Bandicoot 2: Cortex Strikes Back",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/758.png",
     "url": "{HTML_URL}/758.html",
@@ -6743,17 +6743,8 @@
     "author link": "https://www.naughtydog.com",
     "special": ["psx", "non-gnmath", "port", "emulator", "Crash Bandicoot"]
   },
- {
-    "id": 759,
-    "name": "Microsoft Edge Surf",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/759.png",
-    "url": "{HTML_URL}/obitocourage-commits.github.io/curly-sniffle/Microsoft-Edge-SURF/index.html",
-    "author": "yell0wsuit",
-    "author link": "https://github.com/yell0wsuit",
-    "special": ["non-gnmath"]
-},
   {
-    "id": 760,
+    "id": 9004,
     "name": "Doodle Champion Island",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/760.png",
     "url": "https://blog.pother.ca/Google-Doodle-Champion-Island/",
@@ -6762,7 +6753,7 @@
     "special": ["non-gnmath", "external-links", "Google-doodles"]
 },
   {
-    "id": 761,
+    "id": 9005,
     "name": "Crash Bandicoot: Warped",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/761.png",
     "url": "{HTML_URL}/761.html",
@@ -6771,7 +6762,7 @@
     "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
 },
   {
-    "id": 762,
+    "id": 9006,
     "name": "Crash Bandicoot",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/762.png",
     "url": "{HTML_URL}/762.html",
@@ -6780,7 +6771,7 @@
     "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
 },
   {
-    "id": 763,
+    "id": 9007,
     "name": "SpongeBob: Battle for Bikini Bottom",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/763.png",
     "url": "{HTML_URL}/763.html",
