@@ -6859,6 +6859,56 @@
     "author": "Sonic Team Junior, crunch, vinmannie",
     "authorLink": "https://www.srb2.org/"
   },
+   {
+    "id": 771,
+    "name": "Hollow Knight: Silksong",
+    "cover": "{COVER_URL}/771.png",
+    "url": "{HTML_URL}/771-z.html",
+    "author": "Team Cherry, Edurocks",
+    "authorLink": "https://www.teamcherry.com.au/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Sam & Max Hit the Road",
+    "cover": "{COVER_URL}/772.png",
+    "url": "{HTML_URL}/772.html",
+    "author": "Lucasfilm",
+    "authorLink": "https://store.steampowered.com/app/355170/Sam__Max_Hit_the_Road/",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 773,
+    "name": "Command & Conquer",
+    "cover": "{COVER_URL}/773.png",
+    "url": "{HTML_URL}/773.html",
+    "author": "Westwood Studios",
+    "authorLink": "https://www.ea.com/games/command-and-conquer",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Mountain Bike Racer",
+    "cover": "{COVER_URL}/774.png",
+    "url": "{HTML_URL}/774.html",
+    "author": "stefano1234",
+    "authorLink": "https://www.construct.net/en/free-online-games/mountain-bike-runner-20988/play"
+  },
+  {
+    "id": 775,
+    "name": "Bart Bash",
+    "cover": "{COVER_URL}/775.png",
+    "url": "{HTML_URL}/775.html",
+    "author": "TeleSTOP",
+    "authorLink": "https://bartbash.com/"
+  },
   {
     "id": 9000,
     "name": "SkiFree",
