@@ -6998,6 +6998,15 @@
     "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
     "special": ["non-gnmath", "emulator", "psx"]
+  },
+  {
+    "id": 9011,
+    "name": "Tekken 3",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9011.png",
+    "url": "{HTML_URL}/9011.html",
+    "author": "Toby Fox",
+    "authorLink": "https://bsky.app/profile/tobyfox.undertale.com",
+    "special": ["non-gnmath"]
   }
 ]
 
