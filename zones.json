@@ -6912,7 +6912,7 @@
   {
     "id": 9000,
     "name": "SkiFree",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/755.png?t=1",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9000.png?t=1",
     "url": "{HTML_URL}/755.html",
     "author": "Dan Parsons",
     "authorLink": "https://basicallydan.github.io/skifree.js/",
@@ -6921,7 +6921,7 @@
   {
 "id": 9001,
     "name": "Hextris",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/756.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9001.png",
     "url": "{HTML_URL}/756.html",
     "author": "Hextris",
     "authorLink": "https://hextris.io",
@@ -6930,7 +6930,7 @@
   {
   "id": 9002,
   "name": "Wolfenstein 3D",
-  "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/757.png",
+  "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9002.png",
   "url": "{HTML_URL}/757.html",
   "author": "jseidelin",
   "authorLink": "https://github.com/jseidelin/wolf3d",
@@ -6939,7 +6939,7 @@
   {
     "id": 9003,
     "name": "Crash Bandicoot 2: Cortex Strikes Back",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/758.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9003.png",
     "url": "{HTML_URL}/758.html",
     "author": "Naughty Dog",
     "author link": "https://www.naughtydog.com",
@@ -6948,7 +6948,7 @@
   {
     "id": 9004,
     "name": "Doodle Champion Island",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/760.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9004.png",
     "url": "https://blog.pother.ca/Google-Doodle-Champion-Island/",
     "author": "Google",
     "authorLink": "https://github.com/potherca-blog/Google-Doodle-Champion-Island",
@@ -6957,7 +6957,7 @@
   {
     "id": 9005,
     "name": "Crash Bandicoot: Warped",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/761.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9005.png",
     "url": "{HTML_URL}/761.html",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
@@ -6966,7 +6966,7 @@
   {
     "id": 9006,
     "name": "Crash Bandicoot",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/762.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9006.png",
     "url": "{HTML_URL}/762.html",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
@@ -6975,7 +6975,7 @@
   {
     "id": 9007,
     "name": "SpongeBob: Battle for Bikini Bottom",
-    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/763.png",
+    "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9007.png",
     "url": "{HTML_URL}/763.html",
     "author": "Heavy Iron Studios",
     "authorLink": "https://heavyiron.games/",
