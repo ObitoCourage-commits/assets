@@ -7029,7 +7029,7 @@
     "url": "{HTML_URL}/763.html",
     "author": "Heavy Iron Studios",
     "authorLink": "https://heavyiron.games/",
-    "special": ["non-gnmath", "emulator"]
+    "special": ["non-gnmath", "emulator", "gba"]
 },
  {
     "id": 9008,
@@ -7047,6 +7047,15 @@
     "url": "{HTML_URL}/9009.html",
     "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
+    "special": ["non-gnmath", "emulator", "psx"]
+  },
+  {
+    "id": 9010,
+    "name": "007 Racing",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9010.png",
+    "url": "{HTML_URL}/9010.html",
+    "author": "Eutechnyx",
+    "authorLink": "https://steamdb.info/developer/Eutechnyx/",
     "special": ["non-gnmath", "emulator", "psx"]
   },
   {
