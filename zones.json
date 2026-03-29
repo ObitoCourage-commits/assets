@@ -7044,7 +7044,7 @@
     "id": 9009,
     "name": "Tekken 3",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9009.png",
-    "url": "{HTML_URL}/9009.html",
+    "url": "{HTML_URL}/html/Tekken%203/index.html",
     "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
     "special": ["non-gnmath", "emulator", "psx"]
