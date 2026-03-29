@@ -6963,7 +6963,7 @@
     "id": 9000,
     "name": "SkiFree",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9000.png?t=1",
-    "url": "{HTML_URL}/755.html",
+    "url": "{HTML_URL}/9000.html",
     "author": "Dan Parsons",
     "authorLink": "https://basicallydan.github.io/skifree.js/",
      "special": ["non-gnmath"]
@@ -6972,7 +6972,7 @@
 "id": 9001,
     "name": "Hextris",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9001.png",
-    "url": "{HTML_URL}/756.html",
+    "url": "{HTML_URL}/9001.html",
     "author": "Hextris",
     "authorLink": "https://hextris.io",
       "special": ["non-gnmath", "port"]
@@ -6981,7 +6981,7 @@
   "id": 9002,
   "name": "Wolfenstein 3D",
   "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9002.png",
-  "url": "{HTML_URL}/757.html",
+  "url": "{HTML_URL}/9002.html",
   "author": "jseidelin",
   "authorLink": "https://github.com/jseidelin/wolf3d",
   "special": ["non-gnmath", "port"]
@@ -6990,7 +6990,7 @@
     "id": 9003,
     "name": "Crash Bandicoot 2: Cortex Strikes Back",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9003.png",
-    "url": "{HTML_URL}/758.html",
+    "url": "{HTML_URL}/9003.html",
     "author": "Naughty Dog",
     "author link": "https://www.naughtydog.com",
     "special": ["psx", "non-gnmath", "port", "emulator", "Crash Bandicoot"]
@@ -7008,7 +7008,7 @@
     "id": 9005,
     "name": "Crash Bandicoot: Warped",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9005.png",
-    "url": "{HTML_URL}/761.html",
+    "url": "{HTML_URL}/9005.html",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
     "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
@@ -7017,7 +7017,7 @@
     "id": 9006,
     "name": "Crash Bandicoot",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9006.png",
-    "url": "{HTML_URL}/762.html",
+    "url": "{HTML_URL}/9006.html",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
     "special": ["non-gnmath", "emulator", "port", "psx", "Crash Bandicoot"]
@@ -7026,7 +7026,7 @@
     "id": 9007,
     "name": "SpongeBob: Battle for Bikini Bottom",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9007.png",
-    "url": "{HTML_URL}/763.html",
+    "url": "{HTML_URL}/9007.html",
     "author": "Heavy Iron Studios",
     "authorLink": "https://heavyiron.games/",
     "special": ["non-gnmath", "emulator", "gba"]
@@ -7071,11 +7071,28 @@
     "id": 9012,
     "name": "Mortal Kombat Trilogy",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9012.png",
-    "url": "{HTML_URL}/9012.html",
+    "url": "https://obitocourage-commits.github.io/html/Mortal%20Combat%20Trilogy/",
     "author": "John Tobias , Ed Boon",
     "authorLink": "https://mortalkombat.fandom.com/wiki/Ed_Boon",
-    "special": ["non-gnmath", "emulator", "psx"]
-  }
-  
+    "special": ["non-gnmath", "emulator", "psx", "external-links"]
+  },
+  {
+    "id": 9013,
+    "name": "Resident Evil 3: Nemesis",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9013.png",
+    "url": "https://obitocourage-commits.github.io/html/Resident%20Evil%203:%20Nemesis",
+    "author": "Capcom",
+    "authorLink": "https://capcom.com/",
+    "special": ["non-gnmath", "emulator", "psx",]
+  },
+  {
+    "id": 9014,
+    "name": "Crash Team Racing",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9014.png",
+    "url": "https://obitocourage-commits.github.io/html/Crash%20Team%20Racing",
+    "author": "Naughty Dog",
+    "authorLink": "https://www.naughtydog.com",
+    "special": ["non-gnmath", "emulator", "psx",]
+  }  
 ]
 
