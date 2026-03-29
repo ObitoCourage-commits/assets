@@ -7066,6 +7066,16 @@
     "author": "Toby Fox",
     "authorLink": "https://bsky.app/profile/tobyfox.undertale.com",
     "special": ["non-gnmath", "port"]
+  },
+   {
+    "id": 9012,
+    "name": "Mortal Kombat Trilogy",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9012.png",
+    "url": "{HTML_URL}/9012.html",
+    "author": "John Tobias , Ed Boon",
+    "authorLink": "https://mortalkombat.fandom.com/wiki/Ed_Boon",
+    "special": ["non-gnmath", "emulator", "psx"]
   }
+  
 ]
 
