@@ -7093,6 +7093,15 @@
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
     "special": ["non-gnmath", "emulator", "psx"]
+  },
+  {
+    "id": 9015,
+    "name": "Tom Clancy Rainbow Six",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9015.png",
+    "url": "https://obitocourage-commits.github.io/html/Tom%20Clancy%20Rainbow%20Six",
+    "author": "Ubisoft, Tom Clancy",
+    "authorLink": "https://www.ubisoft.com/",
+    "special": ["non-gnmath", "emulator", "psx"]
   }  
 ]
 
