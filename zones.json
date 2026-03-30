@@ -7080,7 +7080,7 @@
     "id": 9013,
     "name": "Resident Evil 3: Nemesis",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9013.png",
-    "url": "https://obitocourage-commits.github.io/html/Resident%20Evil%203:%20Nemesis",
+    "url": "{HTML_URL}/9013.html",
     "author": "Capcom",
     "authorLink": "https://capcom.com/",
     "special": ["non-gnmath", "emulator", "psx"]
