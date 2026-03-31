@@ -7101,7 +7101,34 @@
     "url": "https://obitocourage-commits.github.io/html/Tom%20Clancy%20Rainbow%20Six",
     "author": "Ubisoft, Tom Clancy",
     "authorLink": "https://www.ubisoft.com/",
-    "special": ["non-gnmath", "emulator", "psx"]
-  }  
+    "special": ["non-gnmath", "emulator", "psx", "port"]
+  }, 
+  {
+    "id": 9016,
+    "name": "Jurassic Park",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9016.png",
+    "url": "{HTML_URL}/9016.html",
+    "author": "Ocean Software",
+    "authorLink": "https://en.wikipedia.org/wiki/Ocean_Software",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  }, 
+  {
+    "id": 9017,
+    "name": "Jurassic Park 2: The Lost World",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9017.png",
+    "url": "{HTML_URL}/9017.html",
+    "author": "Torus",
+    "authorLink": "https://www.torus.com.au/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  }, 
+   {
+    "id": 9018,
+    "name": "Mario Kart - Super Circuit",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9018.png",
+    "url": "{HTML_URL}/9018.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/us/?srsltid=AfmBOorKfSse_z_MvNImE288pxcTJAN9tDmEo9jC45FmhaSkqZt8CCpM",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  }, 
 ]
 
