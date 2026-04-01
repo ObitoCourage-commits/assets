@@ -7183,6 +7183,15 @@
     "author": "Humongous Entertainment",
     "authorLink": "https://en.wikipedia.org/wiki/Humongous_Entertainment",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9025,
+    "name": "Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9025.png",
+    "url": "{HTML_URL}/9025.html",
+    "author": "Vicarious Visions",
+    "authorLink": "https://en.wikipedia.org/wiki/Blizzard_Albany",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
   }
 ]
 
