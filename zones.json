@@ -7192,6 +7192,15 @@
     "author": "Vicarious Visions",
     "authorLink": "https://en.wikipedia.org/wiki/Blizzard_Albany",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9026,
+    "name": "Monster Jam",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9026.png",
+    "url": "{HTML_URL}/9026.html",
+    "author": "Feld Entertainment",
+    "authorLink": "https://www.feldentertainment.com/",
+    "special": ["non-gnmath", "emulator", "nds", "port"]
   }
 ]
 
