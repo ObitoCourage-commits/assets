@@ -7129,6 +7129,60 @@
     "author": "Nintendo",
     "authorLink": "https://www.nintendo.com/us/?srsltid=AfmBOorKfSse_z_MvNImE288pxcTJAN9tDmEo9jC45FmhaSkqZt8CCpM",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9019,
+    "name": "Hypertranslate",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9019.png",
+    "url": "{HTML_URL}/9019.html",
+    "author": "RavBug",
+    "authorLink": "https://ravbug.com",
+    "special": ["tools"]
+  },
+  {
+    "id": 9020,
+    "name": "Jurassic Park III: The DNA Factor",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9020.png",
+    "url": "{HTML_URL}/9020.html",
+    "author": "Konami",
+    "authorLink": "https://www.konami.com/games/eu/en/products/list/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9021,
+    "name": "Jurassic Park III: Park Builder",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9021.png",
+    "url": "{HTML_URL}/9020.html",
+    "author": "Konami",
+    "authorLink": "https://www.konami.com/games/eu/en/products/list/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9022,
+    "name": "Jurassic Park III: Island Attack",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9022.png",
+    "url": "{HTML_URL}/9022.html",
+    "author": "Konami",
+    "authorLink": "https://www.konami.com/games/eu/en/products/list/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9023,
+    "name": "Backyard Baseball",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9023.png",
+    "url": "{HTML_URL}/9023.html",
+    "author": "Humongous Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/Humongous_Entertainment",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9024,
+    "name": "Backyard Baseball 2006",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9024.png",
+    "url": "{HTML_URL}/9024.html",
+    "author": "Humongous Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/Humongous_Entertainment",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
   }
 ]
 
