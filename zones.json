@@ -6960,6 +6960,26 @@
     ]
   },
   {
+    "id": 781,
+    "name": "Scratch Inc",
+    "cover": "{COVER_URL}/781.png",
+    "url": "{HTML_URL}/781.html",
+    "author": "Makopaz",
+    "authorLink": "https://store.steampowered.com/app/3788420/Scratch_Inc/"
+  },
+  {
+    "id": 782,
+    "name": "Um Jammer Lammy",
+    "cover": "{COVER_URL}/782.png",
+    "url": "{HTML_URL}/782.html",
+    "author": "NanaOn-Sha",
+    "authorLink": "https://www.retrogames.cc/psx-games/um-jammer-lammy-usa.html",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
     "id": 9000,
     "name": "SkiFree",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9000.png?t=1",
@@ -7029,7 +7049,7 @@
     "url": "{HTML_URL}/9007.html",
     "author": "Heavy Iron Studios",
     "authorLink": "https://heavyiron.games/",
-    "special": ["non-gnmath", "emulator", "gba"]
+    "special": ["non-gnmath", "emulator", "gba", "port"]
 },
  {
     "id": 9008,
@@ -7038,7 +7058,7 @@
     "url": "{HTML_URL}/9008.html",
     "author": "Capcom",
     "authorLink": "https://capcom.com/",
-    "special": ["non-gnmath", "emulator", "psx"]
+    "special": ["non-gnmath", "emulator", "psx", "port"]
   },
 {
     "id": 9009,
@@ -7047,7 +7067,7 @@
     "url": "https://obitocourage-commits.github.io/html/Tekken%203/index.html",
     "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
-    "special": ["non-gnmath", "emulator", "psx", "external-links"]
+    "special": ["non-gnmath", "emulator", "psx", "external-links", "port"]
   },
   {
     "id": 9010,
@@ -7056,7 +7076,7 @@
     "url": "{HTML_URL}/9010.html",
     "author": "Eutechnyx",
     "authorLink": "https://steamdb.info/developer/Eutechnyx/",
-    "special": ["non-gnmath", "emulator", "psx"]
+    "special": ["non-gnmath", "emulator", "psx", "port"]
   },
   {
     "id": 9011,
@@ -7072,9 +7092,9 @@
     "name": "Mortal Kombat Trilogy",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9012.png",
     "url": "https://obitocourage-commits.github.io/html/Mortal%20Combat%20Trilogy/",
-    "author": "John Tobias , Ed Boon",
+    "author": "John Tobias, Ed Boon",
     "authorLink": "https://mortalkombat.fandom.com/wiki/Ed_Boon",
-    "special": ["non-gnmath", "emulator", "psx", "external-links"]
+    "special": ["non-gnmath", "emulator", "psx", "external-links", "port"]
   },
   {
     "id": 9013,
@@ -7083,7 +7103,7 @@
     "url": "{HTML_URL}/9013.html",
     "author": "Capcom",
     "authorLink": "https://capcom.com/",
-    "special": ["non-gnmath", "emulator", "psx"]
+    "special": ["non-gnmath", "emulator", "psx", "port"]
   },
   {
     "id": 9014,
@@ -7092,7 +7112,7 @@
     "url": "https://obitocourage-commits.github.io/html/Crash%20Team%20Racing",
     "author": "Naughty Dog",
     "authorLink": "https://www.naughtydog.com",
-    "special": ["non-gnmath", "emulator", "psx"]
+    "special": ["non-gnmath", "emulator", "psx", "port"]
   },
   {
     "id": 9015,
@@ -7137,7 +7157,7 @@
     "url": "{HTML_URL}/9019.html",
     "author": "RavBug",
     "authorLink": "https://ravbug.com",
-    "special": ["tools"]
+    "special": ["tools", "non-gnmath"]
   },
   {
     "id": 9020,
@@ -7201,6 +7221,88 @@
     "author": "Feld Entertainment",
     "authorLink": "https://www.feldentertainment.com/",
     "special": ["non-gnmath", "emulator", "nds", "port"]
-  }
+  },
+    {
+    "id": 9027,
+    "name": "Final Fantasy 1 + 2 - Dawn of Souls",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9027.png",
+    "url": "{HTML_URL}/9027.html",
+    "author": "Tose, Square, Square Enix",
+    "authorLink": "https://en.wikipedia.org/wiki/Tose_(company)",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9028,
+    "name": "Final Fantasy 5 Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9028.png",
+    "url": "{HTML_URL}/9028.html",
+    "author": "Hironobu Sakaguchi, Yoshinori Kitase",
+    "authorLink": "https://en.wikipedia.org/wiki/Hironobu_Sakaguchi",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9029,
+    "name": "Lego Star Wars The Video Game",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9029.png",
+    "url": "{HTML_URL}/9029.html",
+    "author": "Traveller's Tales, Griptonite Games, Aspyr",
+    "authorLink": "https://en.wikipedia.org/wiki/Traveller%27s_Tales",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9030,
+    "name": "Mario Party Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9030.png",
+    "url": "{HTML_URL}/9030.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/us/?srsltid=AfmBOorKfSse_z_MvNImE288pxcTJAN9tDmEo9jC45FmhaSkqZt8CCpM",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+    {
+    "id": 9031,
+    "name": "Mortal Kombat Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9031.png",
+    "url": "{HTML_URL}/9031.html",
+    "author": "Midway Games",
+    "authorLink": "https://en.wikipedia.org/wiki/Midway_Games",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9032,
+    "name": "Naruto - Ninja Council 2",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9032.png",
+    "url": "{HTML_URL}/9032.html",
+    "author": "Aspect Co, Ltd, Tomy, TakaraTomy Co, Ltd",
+    "authorLink": "https://www.linkedin.com/company/aspectco",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9033,
+    "name": "Sonic Advance 2",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9033.png",
+    "url": "{HTML_URL}/9033.html",
+    "author": "Sega",
+    "authorLink": "https://www.sega.com/homepage",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9034,
+    "name": "Sonic Advance 3",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9034.png",
+    "url": "{HTML_URL}/9034.html",
+    "author": "Sega",
+    "authorLink": "https://www.sega.com/homepage",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9035,
+    "name": "Tekken Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9035.png",
+    "url": "{HTML_URL}/9035.html",
+    "author": " Namco",
+    "authorLink": "https://www.bandainamcoent.com/games",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+]
 ]
 
