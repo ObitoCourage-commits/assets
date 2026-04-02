@@ -7279,7 +7279,7 @@
     "name": "Tekken Advance",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9035.png",
     "url": "{HTML_URL}/9035.html",
-    "author": " Namco",
+    "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
     "special": ["non-gnmath", "emulator", "gba", "port"]
   },
