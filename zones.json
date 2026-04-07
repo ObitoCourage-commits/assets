@@ -7282,6 +7282,42 @@
     "author": "Namco",
     "authorLink": "https://www.bandainamcoent.com/games",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9036,
+    "name": "Final Fantasy 6 Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9036.png",
+    "url": "{HTML_URL}/9036.html",
+    "author": "Tose, Square, Square Enix",
+    "authorLink": "https://en.wikipedia.org/wiki/Tose_(company)",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+    {
+    "id": 9037,
+    "name": "Ghost Rider",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9037.png",
+    "url": "{HTML_URL}/9037.html",
+    "author": "Garth Ennis, Jimmy Palmiotti",
+    "authorLink": "https://en.wikipedia.org/wiki/Garth_Ennis",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9038,
+    "name": "Naruto Ninja Council",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9038.png",
+    "url": "{HTML_URL}/9038.html",
+    "author": "Aspect Co, Ltd, Tomy, TakaraTomy Co, Ltd",
+    "authorLink": "https://www.linkedin.com/company/aspectco",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9039,
+    "name": "Monster Jam - Maximum Destruction",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9039.png",
+    "url": "{HTML_URL}/9039.html",
+    "author": "Feld Entertainment",
+    "authorLink": "https://www.feldentertainment.com/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
   }
 ]
 
