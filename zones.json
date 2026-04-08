@@ -7318,6 +7318,133 @@
     "author": "Feld Entertainment",
     "authorLink": "https://www.feldentertainment.com/",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9040,
+    "name": "2K Sports - Major League Baseball 2K7",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9040.png",
+    "url": "{HTML_URL}/9040.html",
+    "author": "Visual Concepts",
+    "authorLink": "https://en.wikipedia.org/wiki/MLB_2K",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9041,
+    "name": "007 - Everything or Nothing",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9041.png",
+    "url": "{HTML_URL}/9041.html",
+    "author": "Eutechnyx",
+    "authorLink": "https://steamdb.info/developer/Eutechnyx/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9042,
+    "name": "007 - Nightfire",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9042.png",
+    "url": "{HTML_URL}/9042.html",
+    "author": "Eutechnyx",
+    "authorLink": "https://steamdb.info/developer/Eutechnyx/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+    {
+    "id": 9043,
+    "name": "2006 FIFA World Cup - Germany 2006",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9043.png",
+    "url": "{HTML_URL}/9043.html",
+    "author": "EA Sports",
+    "authorLink": "https://www.ea.com/sports",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9044,
+    "name": "Ace Combat Advance",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9044.png",
+    "url": "{HTML_URL}/9044.html",
+    "author": "Human Soft",
+    "authorLink": "https://en.wikipedia.org/wiki/Ace_Combat_Advance",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+    {
+    "id": 9045,
+    "name": "Activison Anthology",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9045.png",
+    "url": "{HTML_URL}/9045.html",
+    "author": "Activision",
+    "authorLink": "https://www.activision.com/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9046,
+    "name": "Advance Guardian Heroes",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9046.png",
+    "url": "{HTML_URL}/9046.html",
+    "author": "Treasure",
+    "authorLink": "https://en.wikipedia.org/wiki/Advance_Guardian_Heroes",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9047,
+    "name": "Advance Wars 2 - Black Hole Rising",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9047.png",
+    "url": "{HTML_URL}/9047.html",
+    "author": "Intelligent Systems",
+    "authorLink": "https://en.wikipedia.org/wiki/Advance_Wars_2:_Black_Hole_Rising",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9048,
+    "name": "Adventures of Jimmy Neutron Boy Genius vs Jimmy Negatron",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9048.png",
+    "url": "{HTML_URL}/9048.html",
+    "author": "THQ",
+    "authorLink": "https://en.wikipedia.org/wiki/Jimmy_Neutron_vs._Jimmy_Negatron",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9049,
+    "name": "Adventures of Jimmy Neutron Boy Genius: The Attack of the Twonkies",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9049.png",
+    "url": "{HTML_URL}/9049.html",
+    "author": "THQ",
+    "authorLink": "https://en.wikipedia.org/wiki/Jimmy_Neutron_vs._Jimmy_Negatron",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9050,
+    "name": "Aero the Acrobat",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9050.png",
+    "url": "{HTML_URL}/9050.html",
+    "author": "Iguna Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/Aero_the_Acro-Bat",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9051,
+    "name": "Aggresive Inline",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9051.png",
+    "url": "{HTML_URL}/9051.html",
+    "author": "Z-axis",
+    "authorLink": "https://en.wikipedia.org/wiki/Aggressive_Inline_(video_game)",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+  {
+    "id": 9052,
+    "name": "Airforce Delta Storm",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9052.png",
+    "url": "{HTML_URL}/9052.html",
+    "author": "Komani",
+    "authorLink": "https://www.konami.com/games/eu/en/products/list/",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+    {
+    "id": 9053,
+    "name": "Aladdin",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9053.png",
+    "url": "{HTML_URL}/9053.html",
+    "author": "Virgin Games",
+    "authorLink": "https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Sega_Genesis_video_game)",
+    "special": ["non-gnmath", "emulator", "gba", "port"]
   }
+]
 ]
 
