@@ -7569,6 +7569,15 @@
     "author": "Virgin Games",
     "authorLink": "https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Sega_Genesis_video_game)",
     "special": ["non-gnmath", "emulator", "gba", "port"]
+  },
+   {
+    "id": 9054,
+    "name": "Club Pengiun Minigames",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9054.png",
+    "url": "{HTML_URL}/9054.html",
+    "author": "Rock Snail Games",
+    "authorLink": "https://www.cpjourney.net/",
+    "special": ["non-gnmath", "port"]
   }
 ]
 
