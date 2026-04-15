@@ -7572,12 +7572,21 @@
   },
    {
     "id": 9054,
-    "name": "Club Pengiun Minigames",
+    "name": "Club Pengiun - Elite Penguin Force",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9054.png",
     "url": "{HTML_URL}/9054.html",
     "author": "Rock Snail Games",
     "authorLink": "https://www.cpjourney.net/",
-    "special": ["non-gnmath", "port"]
+    "special": ["non-gnmath", "emulator", "nds", "port"]
+  },
+   {
+    "id": 9055,
+    "name": "Club Pengiun - Elite Penguin Force - Herbert's Revenge",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9055.png",
+    "url": "{HTML_URL}/9055.html",
+    "author": "Rock Snail Games",
+    "authorLink": "https://www.cpjourney.net/",
+    "special": ["non-gnmath", "emulator", "nds", "port"]
   }
 ]
 
