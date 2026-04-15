@@ -6960,6 +6960,131 @@
     ]
   },
   {
+     "id": 781,
+    "name": "Scratch Inc",
+    "cover": "{COVER_URL}/781.png",
+    "url": "{HTML_URL}/781.html",
+    "author": "Makopaz",
+    "authorLink": "https://store.steampowered.com/app/3788420/Scratch_Inc/"
+  },
+  {
+    "id": 782,
+    "name": "Um Jammer Lammy",
+    "cover": "{COVER_URL}/782.png",
+    "url": "{HTML_URL}/782f.html",
+    "author": "NanaOn-Sha",
+    "authorLink": "https://www.retrogames.cc/psx-games/um-jammer-lammy-usa.html",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 783,
+    "name": "Apes vs Helium",
+    "cover": "{COVER_URL}/783.png",
+    "url": "{HTML_URL}/783.html",
+    "author": "mdtowerz",
+    "authorLink": "https://mdtowerz.itch.io/apesvshelium",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Gabriel's Awesome Schoolhouse (GASH)",
+    "cover": "{COVER_URL}/784.png",
+    "url": "{HTML_URL}/784.html",
+    "author": "Gabriel115GJ",
+    "authorLink": "https://gamejolt.com/games/GASH/877557",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 785,
+    "name": "Geometry Dash",
+    "cover": "{COVER_URL}/785.png",
+    "url": "{HTML_URL}/785-upd.html",
+    "author": "RobTop Games",
+    "authorLink": "https://geometrydash.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "Volley Random",
+    "cover": "{COVER_URL}/786.png",
+    "url": "{HTML_URL}/786.html",
+    "author": "RHM Interactive",
+    "authorLink": "https://www.crazygames.com/game/volley-random"
+  },
+  {
+    "id": 787,
+    "name": "BeatBlock",
+    "cover": "{COVER_URL}/787.png",
+    "url": "{HTML_URL}/787.html", 
+    "author": "BubbleTabby, sunsuke",
+    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Vib-Robbin",
+    "cover": "{COVER_URL}/788.png",
+    "url": "{HTML_URL}/788.html", 
+    "author": "NanaOn-Sha, Japan Studio",
+    "authorLink": "https://www.nanaon-sha.co.jp/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "Stardew Valley",
+    "cover": "{COVER_URL}/789.png",
+    "url": "{HTML_URL}/789.html", 
+    "author": "The Secret Police Limited, ConcernedApe, Cirsius",
+    "authorLink": "https://www.stardewvalley.net/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Helltaker",
+    "cover": "{COVER_URL}/790.png",
+    "url": "{HTML_URL}/790.html", 
+    "author": "Vanripper, wasm.rip",
+    "authorLink": "https://vanripper.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "Who's Your Daddy",
+    "cover": "{COVER_URL}/791.png",
+    "url": "{HTML_URL}/791.html", 
+    "author": "Evil Tortilla Games, reeyuki",
+    "authorLink": "https://store.steampowered.com/app/427730/Whos_Your_Daddy/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "Escape Road 3",
+    "cover": "{COVER_URL}/792.png",
+    "url": "{HTML_URL}/792.html", 
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road-3"
+  },
+  {
     "id": 9000,
     "name": "SkiFree",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9000.png?t=1",
