@@ -7587,6 +7587,15 @@
     "author": "Rock Snail Games",
     "authorLink": "https://www.cpjourney.net/",
     "special": ["non-gnmath", "emulator", "nds", "port"]
+  },
+   {
+    "id": 9056,
+    "name": "History Review Game",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9056.png",
+    "url": "{HTML_URL}/9056.html",
+    "author": "Obito Courage",
+    "authorLink": "https://www.cpjourney.net/",
+    "special": ["non-gnmath", "tools"]
   }
 ]
 
