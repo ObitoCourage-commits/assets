@@ -7594,8 +7594,17 @@
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9056.png",
     "url": "{HTML_URL}/9056.html",
     "author": "Obito Courage",
-    "authorLink": "https://www.cpjourney.net/",
+    "authorLink": "https://github.com/ObitoCourage-commits/",
     "special": ["non-gnmath", "tools"]
+  },
+   {
+    "id": 9057,
+    "name": "Rocket Goal",
+    "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9057.png",
+    "url": "{HTML_URL}/9057.html",
+    "author": "Rocket Goal",
+    "authorLink": "https://rocket-goal.github.io/",
+    "special": ["non-gnmath"]
   }
 ]
 
