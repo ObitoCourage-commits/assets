@@ -7242,7 +7242,7 @@
     "id": 9011,
     "name": "Undertale",
     "cover": "https://raw.githubusercontent.com/ObitoCourage-commits/assets/main/9011.png",
-    "url": "{HTML_URL}/Undertale/",
+    "url": "{HTML_URL}tree/main/Undertale/",
     "author": "Toby Fox",
     "authorLink": "https://bsky.app/profile/tobyfox.undertale.com",
     "special": ["non-gnmath", "port"]
