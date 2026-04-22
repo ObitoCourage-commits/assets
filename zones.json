@@ -7143,7 +7143,7 @@
     "id": 9000,
     "name": "SkiFree",
     "cover": "https://cdn.jsdelivr.net/gh/ObitoCourage-commits/assets@main/9000.png?t=1",
-    "url": "{HTML_URL}/SkiFree/",
+    "url": "{HTML_URL}/SkiFree/index.html",
     "author": "Dan Parsons",
     "authorLink": "https://basicallydan.github.io/skifree.js/",
      "special": ["non-gnmath"]
