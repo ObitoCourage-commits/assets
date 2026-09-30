@@ -33,7 +33,7 @@
     "id": 3,
     "name": "OvO 3 Dimensions",
     "cover": "{COVER_URL}/3.png",
-    "url": "{HTML_URL}/3.html",
+    "url": "{HTML_URL}/3-f.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -41,7 +41,7 @@
     "id": 4,
     "name": "Gladihoppers",
     "cover": "{COVER_URL}/4.png",
-    "url": "{HTML_URL}/4.html",
+    "url": "{HTML_URL}/4-pf.html",
     "author": "Dreamon Studios",
     "authorLink": "https://dreamonstudios.itch.io/gladihoppers"
   },
@@ -49,7 +49,7 @@
     "id": 5,
     "name": "Ice Dodo",
     "cover": "{COVER_URL}/5.png",
-    "url": "{HTML_URL}/5.html",
+    "url": "{HTML_URL}/5-f.html",
     "author": "Onionfist Studio",
     "authorLink": "https://onionfist.com"
   },
@@ -57,7 +57,7 @@
     "id": 6,
     "name": "Block Blast",
     "cover": "{COVER_URL}/6.png",
-    "url": "{HTML_URL}/6.html",
+    "url": "{HTML_URL}/6-f.html",
     "author": "reunbozdo",
     "authorLink": "https://reunbozdo.github.io"
   },
@@ -65,7 +65,7 @@
     "id": 7,
     "name": "Jetpack Joyride",
     "cover": "{COVER_URL}/7.png",
-    "url": "{HTML_URL}/7.html",
+    "url": "{HTML_URL}/7-f.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://www.halfbrick.com"
   },
